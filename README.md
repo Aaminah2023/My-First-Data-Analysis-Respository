@@ -13,6 +13,6 @@
 
 
 ----
-# Findings and Recommendation
+# Findings and Recommendations
 
 
